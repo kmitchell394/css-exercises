@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd-number {
+    background-color: #fc6ce9;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.unique-font {
+    font-size: 24px;
+    color: white;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
